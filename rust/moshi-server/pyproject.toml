@@ -11,3 +11,6 @@ dependencies = [
    "julius",
    "torchaudio",
 ]
+
+[tool.uv]
+exclude-newer = "7 days"
