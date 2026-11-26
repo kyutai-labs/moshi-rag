@@ -30,7 +30,6 @@ maintainers = [
     {name="Chung-Ming Chien", email="cmchien@ttic.edu"},
 ]
 license = {text = "MIT"}
-readme = "../README.md"
 version = "0.2.13"
 
 [project.scripts]
